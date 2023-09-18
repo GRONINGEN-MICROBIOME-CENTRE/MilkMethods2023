@@ -1,0 +1,3 @@
+# README 16S data processing
+
+To assign bacterial taxonomies with the FANGORN database, adapt the script to use the GTDB Full 207 database (https://melbourne.figshare.com/articles/dataset/Fangorn_rrn_Database/20086916) instead of the SILVA database.
