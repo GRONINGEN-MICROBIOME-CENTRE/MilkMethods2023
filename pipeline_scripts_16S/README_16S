@@ -1,3 +1,6 @@
 # README 16S data processing
 
+This folder contains the scripts for processing 16S rRNA gene sequencing data and assign bacterial taxonomies using the SILVA database (version 138.1, see: https://zenodo.org/record/4587955#.YdQRkBPML0o).
 To assign bacterial taxonomies with the FANGORN database, adapt the script to use the GTDB Full 207 database (https://melbourne.figshare.com/articles/dataset/Fangorn_rrn_Database/20086916) instead of the SILVA database.
+
+The DADA2 script (script_4.4) is based on the DADA2 pipeline version 1.16, almost default setup (see: https://benjjneb.github.io/dada2/tutorial.html).
